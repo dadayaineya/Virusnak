@@ -7,7 +7,7 @@ import daemon
 import logging
 import pyxhook
 
-
+"""cho za hyuna"""
 class Keylogger:
     """ This class represents the code injecting malware. """
 
